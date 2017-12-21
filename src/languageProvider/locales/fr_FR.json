@@ -1,0 +1,17 @@
+{
+  "sidebar.blankPage": "Página en blanco",
+  "sidebar.formation": "Formations",
+  "sidebar.evenements": "Evenements",
+  "sidebar.OffreEmplois": "Offre Emplois",
+  "sidebar.Candidats": "Candidats",
+  "page.signInTitle": "KEYMADA",
+  "page.signInRememberMe": "Recuérdame",
+  "page.signInButton": "Registrarse",
+  "page.signInPreview":
+    "nombre de usuario  demo   contraseña  demodemo   o simplemente haga clic en cualquier botón.",
+  "page.signInFacebook": "Iniciar sesión usando Facebook",
+  "page.signInGooglePlus": "Acceder con Google Plus",
+  "page.signInAuth0": "Iniciar sesión con Auth0",
+  "page.signInForgotPass": "Se te olvidó tu contraseña",
+  "page.signInCreateAccount": "Créer un compte Keymada"
+}
